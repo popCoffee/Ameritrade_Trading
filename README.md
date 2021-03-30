@@ -20,6 +20,10 @@ The AWS terminal
  
 ![AWS](https://github.com/popCoffee/Ameritrade_Trading/blob/main/snapshot_aws.JPG)
 
+The plot
+
+![PLOT](https://github.com/popCoffee/Ameritrade_Trading/blob/main/plot_daily_analysis.JPG)
+
 The Email
  
 ![AWS](https://github.com/popCoffee/Ameritrade_Trading/blob/main/snapshot_email.JPG)
